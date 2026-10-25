@@ -4,3 +4,9 @@ obj/
 *.csproj
 *.sln
 .DS_Store
+Logs/
+UserSettings/
+Build/
+Builds/
+ProfilerCaptures/
+*.log

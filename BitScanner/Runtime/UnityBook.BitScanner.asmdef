@@ -1,0 +1,10 @@
+{
+    "name": "UnityBook.BitScanner",
+    "rootNamespace": "UnityBook.Bits",
+    "references": [
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Mathematics"
+    ],
+    "allowUnsafeCode": true
+}

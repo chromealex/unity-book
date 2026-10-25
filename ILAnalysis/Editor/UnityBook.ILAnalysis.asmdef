@@ -1,0 +1,7 @@
+{
+    "name": "UnityBook.ILAnalysis",
+    "rootNamespace": "UnityBook.ILAnalysis",
+    "includePlatforms": [
+        "Editor"
+    ]
+}
