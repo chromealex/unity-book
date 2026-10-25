@@ -1,0 +1,3 @@
+<linker>
+    <assembly fullname="BookBench.Runtime" preserve="all"/>
+</linker>
